@@ -1,0 +1,36 @@
+*{
+      padding: 0;
+      margin: 0;
+}
+.navbar{
+      display: flex;
+      justify-content: space-between;
+      padding: 12px;
+      background-color: rgb(5,121,121);
+      color: #fff;
+      padding-inline: 45px;
+}
+.nav-left{
+      display: flex;
+      align-items: center;
+}
+.nav-brand{
+      font-size: 1.8rem;
+      margin-right: 20px;
+      text-decoration: none;
+      color: white;
+}
+.nav-right{
+      display: flex;
+      align-items: center;
+}
+.nav-link{
+      color: #fff;
+      text-decoration: none;
+      margin-left: 30px;
+      font-size: 20px;
+}
+.nav-link:hover{
+      text-decoration: underline;
+      font-size: 21px;
+}

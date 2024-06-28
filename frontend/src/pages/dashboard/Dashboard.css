@@ -1,0 +1,11 @@
+.dashboard{
+      display: flex;
+      height: 90vh;
+}
+.sidebar-container{
+      width: 20%;
+      border-right: 2px solid gray;
+}
+.contect-container{
+      width: 80%;
+}
